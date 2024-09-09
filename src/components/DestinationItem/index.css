@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.img {
+  width: 200px;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  width: 220px;
+}
